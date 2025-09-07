@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics <br>🤝 I’m looking for help with Data science projects<br>🌱 I’m currently learning Data Analytics<br>
+🔭 I’m currently working on Data Analytics(Vendor Ops) <br> <br>🌱 I’m currently learning Data Analytics in Vendor Ops<br>
 
 
 ## 🌐 Socials:
